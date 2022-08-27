@@ -64,8 +64,6 @@
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha95&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
 
-[twitter]: https://twitter.com/svbutko
-[linkedin]: https://linkedin.com/in/svbutko
-[medium]: https://medium.com/@svbutko
-[devdotto]: https://dev.to/svbutko
-[reddit]: https://www.reddit.com/user/S3rg1usz
+[twitter]: https://twitter.com/css_prime
+[linkedin]: https://linkedin.com/in/alexmag
+[facebook]: https://www.facebook.com/alex.mangir.3
