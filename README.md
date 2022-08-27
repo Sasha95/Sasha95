@@ -63,6 +63,7 @@
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha95&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/svbutko
 [linkedin]: https://linkedin.com/in/svbutko
