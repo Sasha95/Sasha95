@@ -15,7 +15,7 @@
 
 <br />
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Sasha95&theme=discord)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Sasha95&theme=flat)
 
 ### Languages and Tools:
 
