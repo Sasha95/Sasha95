@@ -34,26 +34,10 @@
 
 <br />
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [React Native Template Strong](https://dev.to/svbutko/react-native-template-strong-28h)
-- [ESLint Config for React and React Native Development](https://dev.to/svbutko/eslint-config-for-react-and-react-native-development-25m)
-- [React Native Image Resource Generator](https://dev.to/svbutko/react-native-image-resource-generator-m14)
-- [React Native resources to learn and get inspiration](https://dev.to/svbutko/react-native-resources-to-learn-and-get-inspiration-1845)
-- [WebStorm plugins to boost your productivity](https://dev.to/svbutko/webstorm-plugins-to-boost-your-productivity-nac)
-<!-- BLOG-POST-LIST:END -->
-
-<br />
-
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/Y-WeCode/quill-video-resize-module/pull/3) in [Y-WeCode/quill-video-resize-module](https://github.com/Y-WeCode/quill-video-resize-module)
-2. 💪 Opened PR [#3](https://github.com/Y-WeCode/quill-video-resize-module/pull/3) in [Y-WeCode/quill-video-resize-module](https://github.com/Y-WeCode/quill-video-resize-module)
-3. 🎉 Merged PR [#27](https://github.com/Sasha95/timer/pull/27) in [Sasha95/timer](https://github.com/Sasha95/timer)
-4. 💪 Opened PR [#27](https://github.com/Sasha95/timer/pull/27) in [Sasha95/timer](https://github.com/Sasha95/timer)
-<!--END_SECTION:activity-->
+
 
 <br />
 
