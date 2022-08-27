@@ -43,6 +43,9 @@
 4. 💪 Opened PR [#27](https://github.com/Sasha95/timer/pull/27) in [Sasha95/timer](https://github.com/Sasha95/timer)
 <!--END_SECTION:activity-->
 
+<br />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sasha95)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br />
 
