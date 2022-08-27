@@ -1,12 +1,18 @@
 ### Hi there, I'm Alexandr 👋
 ## I'm a React Native, React Developer, Blogger and a kind person !
 
+
+<br />
+
 - 🔭 I’m currently working on developing and contributing in react-native repos!
 - 🌱 I’m currently learning lots of stuff in different fields
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and write more articles
 
 <!-- <a href="https://www.buymeacoffee.com/sasha95"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=svbutko&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a> -->
+
+
+<br />
 
 ### Connect with me:
 
@@ -61,7 +67,9 @@
 
 [![Sasha95's github stats](https://github-readme-stats.vercel.app/api?username=Sasha95&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha95&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha95&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/svbutko
 [linkedin]: https://linkedin.com/in/svbutko
