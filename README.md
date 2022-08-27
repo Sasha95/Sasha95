@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexandr 👋
 ## I'm a React Native, React Developer, Blogger and a kind person !
 
-- 🔭 I’m currently working on developing and contributing in react repos!
+- 🔭 I’m currently working on react apps
 - 🌱 I’m currently learning lots of stuff in different fields
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and write more articles
