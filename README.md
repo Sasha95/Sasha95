@@ -51,8 +51,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sasha95&theme=hacker&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sasha95)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [twitter]: https://twitter.com/svbutko
 [linkedin]: https://linkedin.com/in/svbutko
 [facebook]: https://www.facebook.com/alex.mangir.3
