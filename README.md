@@ -46,7 +46,6 @@
 <br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sasha95)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 <br />
 
 [![Sasha95's github stats](https://github-readme-stats.vercel.app/api?username=Sasha95&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
