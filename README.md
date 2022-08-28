@@ -45,6 +45,7 @@
 4. 💪 Opened PR [#27](https://github.com/Sasha95/timer/pull/27) in [Sasha95/timer](https://github.com/Sasha95/timer)
 <!--END_SECTION:activity-->
 
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
