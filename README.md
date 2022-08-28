@@ -7,13 +7,18 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and write more articles
 
 <a href="https://www.buymeacoffee.com/sasha95"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=svbutko&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+
+<br>
+<br>
+
 ## Connect with me:
 
 [<img align="left" alt="Sasha95 | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Sasha95 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Sasha95 | DevTo" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
-<br />
+<br>
+<br>
 
 ## Languages and Tools:
 
@@ -31,8 +36,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
-
-<br />
+<br>
+<br>
 
 ## ⚡️ Recent Activity
 
@@ -43,7 +48,8 @@
 4. 💪 Opened PR [#27](https://github.com/Sasha95/timer/pull/27) in [Sasha95/timer](https://github.com/Sasha95/timer)
 <!--END_SECTION:activity-->
 
-<br />
+<br>
+<br>
 
 [![Sasha95's github stats](https://github-readme-stats.vercel.app/api?username=Sasha95&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
