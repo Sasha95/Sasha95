@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="React-Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -34,7 +34,7 @@
 
 <br />
 
-### ⚡️ Recent Activity
+## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#3](https://github.com/Y-WeCode/quill-video-resize-module/pull/3) in [Y-WeCode/quill-video-resize-module](https://github.com/Y-WeCode/quill-video-resize-module)
