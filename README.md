@@ -10,13 +10,9 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Sasha95 | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="Sasha95 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Sasha95 | DevTo" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)]([twitter])
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([linkedin])
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=black)]([facebook])
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/css_prime)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/alexmag)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=black)](https://www.facebook.com/alex.mangir.3)
 
 <br>
 <br>
@@ -63,8 +59,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sasha95&theme=hacker&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
 
 <br>
-
-
-[twitter]: https://twitter.com/css_prime
-[linkedin]: https://linkedin.com/in/alexmag
-[facebook]: https://www.facebook.com/alex.mangir.3
