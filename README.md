@@ -15,7 +15,6 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=black)](https://www.facebook.com/alex.mangir.3)
 
 <br>
-<br>
 
 ## Languages and Tools:
 
