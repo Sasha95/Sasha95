@@ -1,5 +1,5 @@
 ### Hi there, I'm Alexandr 👋
-## I'm a React Native, React Developer and a kind person!
+## ⚡ I'm a React Native, React Developer and a kind person!
 
 - 🔭 I’m currently working on react apps
 - 🌱 I’m currently learning lots of stuff in different fields
