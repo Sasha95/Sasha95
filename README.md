@@ -54,7 +54,7 @@
 
 [![Sasha95's github stats](https://github-readme-stats.vercel.app/api?username=Sasha95&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha95&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha95&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sasha95&theme=hacker&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
 
