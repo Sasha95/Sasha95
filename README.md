@@ -56,8 +56,6 @@
 
 </details>
 
-<br>
-<br>
 
 ## 👨‍💻 Recent Activity
 
