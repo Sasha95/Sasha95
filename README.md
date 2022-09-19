@@ -64,10 +64,10 @@
 ## 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/braydoncoyer/braydoncoyer.dev/pull/179) in [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
-2. 💪 Opened PR [#37](https://github.com/kqito/use-tus/pull/37) in [kqito/use-tus](https://github.com/kqito/use-tus)
-3. 🗣 Commented on [#175](https://github.com/braydoncoyer/braydoncoyer.dev/issues/175) in [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
-4. 💪 Opened PR [#27](https://github.com/Sasha95/timer/pull/27) in [Sasha95/timer](https://github.com/Sasha95/timer)
+1. ❌ Closed PR [#179](https://github.com/braydoncoyer/braydoncoyer.dev/pull/179) in [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
+2. 💪 Opened PR [#179](https://github.com/braydoncoyer/braydoncoyer.dev/pull/179) in [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
+3. 💪 Opened PR [#37](https://github.com/kqito/use-tus/pull/37) in [kqito/use-tus](https://github.com/kqito/use-tus)
+4. 🗣 Commented on [#175](https://github.com/braydoncoyer/braydoncoyer.dev/issues/175) in [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
 <!--END_SECTION:activity-->
 
 <br>
