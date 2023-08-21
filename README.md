@@ -61,7 +61,7 @@
 
 <br>
 
-## 👨‍💻 Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#4](https://github.com/ChenglongMa/SkinToneClassifier/issues/4) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
