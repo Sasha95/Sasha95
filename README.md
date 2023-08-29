@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on react apps
 - 🌱 I’m currently learning lots of stuff in different fields
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and write more articles
+- 🥅 Goals for this year: Contribute more to Open Source projects and write more articles
 
 <a href="https://www.buymeacoffee.com/sasha95"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=svbutko&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
