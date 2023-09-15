@@ -64,10 +64,10 @@
 ## 👨‍💻 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/webraptor/react-native-deck-swiper/pull/116#issuecomment-1698104972) in [webraptor/react-native-deck-swiper](https://github.com/webraptor/react-native-deck-swiper)
-2. ❗ Opened issue [#4](https://github.com/ChenglongMa/SkinToneClassifier/issues/4) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-3. 💪 Opened PR [#37](https://github.com/kqito/use-tus/pull/37) in [kqito/use-tus](https://github.com/kqito/use-tus)
-4. 🗣 Commented on [#175](https://github.com/braydoncoyer/braydoncoyer.dev/issues/175) in [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
+1. 💪 Opened PR [#1](https://github.com/Julius0505/Julius0505/pull/1) in [Julius0505/Julius0505](https://github.com/Julius0505/Julius0505)
+2. 🗣 Commented on [#5312](https://github.com/oven-sh/bun/issues/5312#issuecomment-1718338417) in [oven-sh/bun](https://github.com/oven-sh/bun)
+3. 💪 Opened PR [#118](https://github.com/webraptor/react-native-deck-swiper/pull/118) in [webraptor/react-native-deck-swiper](https://github.com/webraptor/react-native-deck-swiper)
+4. 🗣 Commented on [#116](https://github.com/webraptor/react-native-deck-swiper/pull/116#issuecomment-1698104972) in [webraptor/react-native-deck-swiper](https://github.com/webraptor/react-native-deck-swiper)
 <!--END_SECTION:activity-->
 
 <br>
