@@ -64,8 +64,8 @@
 ## 👨‍💻 Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Julius0505/Julius0505/pull/1) in [Julius0505/Julius0505](https://github.com/Julius0505/Julius0505)
-2. 🗣 Commented on [#5312](https://github.com/oven-sh/bun/issues/5312#issuecomment-1718338417) in [oven-sh/bun](https://github.com/oven-sh/bun)
+1. 🎉 Merged PR [#1](https://github.com/Sasha95/react-google-maps-api/pull/1) in [Sasha95/react-google-maps-api](https://github.com/Sasha95/react-google-maps-api)
+2. 💪 Opened PR [#1](https://github.com/Sasha95/react-google-maps-api/pull/1) in [Sasha95/react-google-maps-api](https://github.com/Sasha95/react-google-maps-api)
 3. 💪 Opened PR [#118](https://github.com/webraptor/react-native-deck-swiper/pull/118) in [webraptor/react-native-deck-swiper](https://github.com/webraptor/react-native-deck-swiper)
 4. 🗣 Commented on [#116](https://github.com/webraptor/react-native-deck-swiper/pull/116#issuecomment-1698104972) in [webraptor/react-native-deck-swiper](https://github.com/webraptor/react-native-deck-swiper)
 <!--END_SECTION:activity-->
