@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals for this year: Contribute more to Open Source projects and write more articles
 
-<a href="https://www.buymeacoffee.com/sasha95"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=svbutko&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
-
 ## 📣 Connect with me:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/css_prime)
