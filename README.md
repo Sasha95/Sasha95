@@ -1,7 +1,7 @@
 <a href="https://sasha95.github.io/"><img src="assets/header.png" alt="Alexandr Mangir — Senior Software Engineer, full stack" width="100%"></a>
 
 <p align="center">
-  <a href="https://sasha95.github.io/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=22E3FF&center=true&vCenter=true&width=720&height=40&lines=I+build+complete+products+end+to+end;Web+platforms+%C2%B7+SaaS+apps+%C2%B7+AI-powered+products;From+idea+and+architecture+to+a+production-ready+launch" alt="I build complete products end to end"></a>
+  <a href="https://sasha95.github.io/"><img src="assets/typing.svg" alt="I build complete products end to end"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## Tech stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,threejs,nodejs,nestjs,webpack,vite,figma,git,githubactions,vercel&perline=16" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind, MUI, Three.js, Node.js, NestJS, Webpack, Vite, Figma, Git, GitHub Actions, Vercel">
+<img src="assets/stack.svg" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind, MUI, Three.js, Node.js, NestJS, Webpack, Vite, Figma, Git, GitHub Actions, Vercel">
 
 **Architecture** &nbsp;
 ![Micro-frontends](https://img.shields.io/badge/-Micro--frontends-1b1f3a?style=flat-square&logo=webpack&logoColor=22e3ff)
