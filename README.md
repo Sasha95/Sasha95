@@ -1,81 +1,57 @@
-### Hi there, I'm Alexandr 👋
-## ⚡ I'm a React Native, React Developer and a kind person!
+<a href="https://sasha95.github.io/"><img src="assets/header.png" alt="Alexandr Mangir — Senior Software Engineer, full stack" width="100%"></a>
 
-- 🔭 I’m currently working on react apps
-- 🌱 I’m currently learning lots of stuff in different fields
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals for this year: Contribute more to Open Source projects and write more articles
+<p align="center">
+  <a href="https://sasha95.github.io/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=22E3FF&center=true&vCenter=true&width=720&height=40&lines=I+build+complete+products+end+to+end;Web+platforms+%C2%B7+SaaS+apps+%C2%B7+AI-powered+products;From+idea+and+architecture+to+a+production-ready+launch" alt="I build complete products end to end"></a>
+</p>
 
-## 📣 Connect with me:
+<p align="center">
+  <a href="https://sasha95.github.io/"><img src="https://img.shields.io/badge/Website-sasha95.github.io-22e3ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0d1c" alt="Website: sasha95.github.io"></a>
+  <a href="https://www.linkedin.com/in/alexmag"><img src="https://img.shields.io/badge/LinkedIn-alexmag-9d5cff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0d1c" alt="LinkedIn: alexmag"></a>
+</p>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/css_prime)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://linkedin.com/in/alexmag)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/alex.mangir.3)
+## About me
 
-<br>
+- 🧠 **Senior Software Engineer, full stack**: React and Next.js on the frontend, Node.js and NestJS on the backend
+- ⚡ I build **high-performance, scalable systems**, from architecture and APIs to polished interfaces
+- 🧩 **3 platforms** built on micro-frontends and **2 company-wide design systems**
+- 🤖 **AI features in production**: LLMs, RAG, AI agents, MCP and spec-driven development with coding agents
 
-## 💼 Skills:
+## Tech stack
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,threejs,nodejs,nestjs,webpack,vite,figma,git,githubactions,vercel&perline=16" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind, MUI, Three.js, Node.js, NestJS, Webpack, Vite, Figma, Git, GitHub Actions, Vercel">
 
-<details>
-<summary>More Skills</summary>
-<br>
+**Architecture** &nbsp;
+![Micro-frontends](https://img.shields.io/badge/-Micro--frontends-1b1f3a?style=flat-square&logo=webpack&logoColor=22e3ff)
+![Module Federation](https://img.shields.io/badge/-Module%20Federation-1b1f3a?style=flat-square&logo=webpack&logoColor=22e3ff)
+![Design Systems](https://img.shields.io/badge/-Design%20Systems-1b1f3a?style=flat-square&logo=storybook&logoColor=ff4785)
+![React Native](https://img.shields.io/badge/-React%20Native-1b1f3a?style=flat-square&logo=react&logoColor=61dafb)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-1b1f3a?style=flat-square&logo=reactquery&logoColor=ff4154)
+![FSD](https://img.shields.io/badge/-FSD-1b1f3a?style=flat-square)
+![DDD](https://img.shields.io/badge/-DDD-1b1f3a?style=flat-square)
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+**AI** &nbsp;
+![LLMs](https://img.shields.io/badge/-LLMs-1b1f3a?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-1b1f3a?style=flat-square)
+![Embeddings](https://img.shields.io/badge/-Embeddings%20%26%20vector%20search-1b1f3a?style=flat-square)
+![AI agents](https://img.shields.io/badge/-AI%20agents-1b1f3a?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-1b1f3a?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-1b1f3a?style=flat-square&logo=claude&logoColor=d97757)
 
-<br>
+## Selected work
 
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+| Project | What it is |
+| --- | --- |
+| **maib design system** | Shared UI library for product teams, micro-frontends for digital banking and card management for corporate clients |
+| **Otherweb & PressHub** | A junk-free news platform that uses AI to filter clickbait and misinformation, plus an AI editorial workflow for journalists |
+| **[Raters](https://www.ratersapp.com/)** | A social network for movie lovers: Next.js web app, Telegram Mini App, Web3 login and an x402 paid API for AI agents |
+| **Flowqe** | A web CAD for electrical engineering: diagram editor, real-time electrical calculations and DXF import/export |
+| **[Everact](https://everact.io/)** | A platform to create and sell online courses: LMS, a visual drag-and-drop funnel builder and Stripe billing |
+| **RAG & AI workflows** | RAG over internal knowledge, automation of routine processes and spec-driven development with coding agents |
 
-<br>
+More on the site: **[sasha95.github.io](https://sasha95.github.io/)**
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
+## GitHub activity
 
-</details>
+<img src="profile-3d-contrib/profile-neon.svg" alt="3D contribution calendar with contribution stats and languages" width="100%">
 
-<br>
-
-## 👨‍💻 Recent Activity 
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#7773](https://github.com/wix/react-native-navigation/issues/7773#issuecomment-1885184863) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-2. 🎉 Merged PR [#1](https://github.com/Sasha95/react-google-maps-api/pull/1) in [Sasha95/react-google-maps-api](https://github.com/Sasha95/react-google-maps-api)
-3. 💪 Opened PR [#1](https://github.com/Sasha95/react-google-maps-api/pull/1) in [Sasha95/react-google-maps-api](https://github.com/Sasha95/react-google-maps-api)
-4. 🗣 Commented on [#116](https://github.com/webraptor/react-native-deck-swiper/pull/116#issuecomment-1698104972) in [webraptor/react-native-deck-swiper](https://github.com/webraptor/react-native-deck-swiper)
-<!--END_SECTION:activity-->
-
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-[![Sasha95's github stats](https://github-readme-stats.vercel.app/api?username=Sasha95&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha95&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
-
-<br>
+<img src="profile-3d-contrib/snake.svg" alt="A snake eating the contribution graph" width="100%">
