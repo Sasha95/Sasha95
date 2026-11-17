@@ -1,4 +1,4 @@
-<a href="https://sasha95.github.io/"><img src="assets/header.png" alt="Alexandr Mangir — Senior Software Engineer, full stack" width="100%"></a>
+<a href="https://sasha95.github.io/"><img src="assets/header.webp" alt="Alexandr Mangir — Senior Software Engineer, full stack" width="100%"></a>
 
 <p align="center">
   <a href="https://sasha95.github.io/"><img src="assets/typing.svg" alt="I build complete products end to end"></a>
