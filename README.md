@@ -37,19 +37,6 @@
 ![MCP](https://img.shields.io/badge/-MCP-1b1f3a?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-1b1f3a?style=flat-square&logo=claude&logoColor=d97757)
 
-## Selected work
-
-| Project | What it is |
-| --- | --- |
-| **maib design system** | Shared UI library for product teams, micro-frontends for digital banking and card management for corporate clients |
-| **Otherweb & PressHub** | A junk-free news platform that uses AI to filter clickbait and misinformation, plus an AI editorial workflow for journalists |
-| **[Raters](https://www.ratersapp.com/)** | A social network for movie lovers: Next.js web app, Telegram Mini App, Web3 login and an x402 paid API for AI agents |
-| **Flowqe** | A web CAD for electrical engineering: diagram editor, real-time electrical calculations and DXF import/export |
-| **[Everact](https://everact.io/)** | A platform to create and sell online courses: LMS, a visual drag-and-drop funnel builder and Stripe billing |
-| **RAG & AI workflows** | RAG over internal knowledge, automation of routine processes and spec-driven development with coding agents |
-
-More on the site: **[sasha95.github.io](https://sasha95.github.io/)**
-
 ## GitHub activity
 
 <img src="profile-3d-contrib/profile-neon.svg" alt="3D contribution calendar with contribution stats and languages" width="100%">
