@@ -20,7 +20,7 @@
 
 <img src="assets/stack.svg" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind, MUI, Three.js, Node.js, NestJS, Webpack, Vite, Figma, Git, GitHub Actions, Vercel">
 
-**Architecture** &nbsp;
+![Architecture](https://img.shields.io/badge/Architecture-22e3ff?style=flat-square)
 ![Micro-frontends](https://img.shields.io/badge/-Micro--frontends-1b1f3a?style=flat-square&logo=webpack&logoColor=22e3ff)
 ![Module Federation](https://img.shields.io/badge/-Module%20Federation-1b1f3a?style=flat-square&logo=webpack&logoColor=22e3ff)
 ![Design Systems](https://img.shields.io/badge/-Design%20Systems-1b1f3a?style=flat-square&logo=storybook&logoColor=ff4785)
@@ -29,7 +29,7 @@
 ![FSD](https://img.shields.io/badge/-FSD-1b1f3a?style=flat-square)
 ![DDD](https://img.shields.io/badge/-DDD-1b1f3a?style=flat-square)
 
-**AI** &nbsp;
+![AI](https://img.shields.io/badge/AI-ff3cd0?style=flat-square)
 ![LLMs](https://img.shields.io/badge/-LLMs-1b1f3a?style=flat-square)
 ![RAG](https://img.shields.io/badge/-RAG-1b1f3a?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/-Embeddings%20%26%20vector%20search-1b1f3a?style=flat-square)
